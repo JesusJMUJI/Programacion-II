@@ -12,7 +12,11 @@ class Program
         }
         else if (name == "Alonso")
         {
-            Console.WriteLine(name + " " + "buen dm :), dale agro a ");
+            Console.WriteLine(name + " " + "buen dm :), dale agro a Raul");
+        }
+        else if (name == "Karl")
+        {
+            Console.WriteLine(name + "???" + " WHICH KARL IM CONFUSED");
         }
         else 
         {
