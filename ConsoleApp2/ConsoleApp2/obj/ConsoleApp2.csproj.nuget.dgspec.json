@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\REPOSITORIOS\\Programacion-II\\ConsoleApp2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config"
