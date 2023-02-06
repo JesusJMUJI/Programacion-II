@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.AssemblyInfo.cs
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\bin\Debug\net6.0\EJ2.exe
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\bin\Debug\net6.0\EJ2.deps.json
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\bin\Debug\net6.0\EJ2.runtimeconfig.json
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\bin\Debug\net6.0\EJ2.dll
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\bin\Debug\net6.0\EJ2.pdb
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.dll
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\refint\EJ2.dll
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.pdb
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\EJ2.genruntimeconfig.cache
+C:\REPOSITORIOS\Programacion-II\EJ2\EJ2\obj\Debug\net6.0\ref\EJ2.dll
