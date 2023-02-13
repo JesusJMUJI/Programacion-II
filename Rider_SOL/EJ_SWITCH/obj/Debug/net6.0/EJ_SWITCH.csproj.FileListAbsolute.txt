@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.AssemblyInfo.cs
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\bin\Debug\net6.0\EJ_SWITCH.exe
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\bin\Debug\net6.0\EJ_SWITCH.deps.json
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\bin\Debug\net6.0\EJ_SWITCH.runtimeconfig.json
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\bin\Debug\net6.0\EJ_SWITCH.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\bin\Debug\net6.0\EJ_SWITCH.pdb
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\refint\EJ_SWITCH.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.pdb
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\EJ_SWITCH.genruntimeconfig.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\EJ_SWITCH\obj\Debug\net6.0\ref\EJ_SWITCH.dll

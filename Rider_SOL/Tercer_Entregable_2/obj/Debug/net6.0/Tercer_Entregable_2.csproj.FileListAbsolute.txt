@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.AssemblyInfo.cs
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\bin\Debug\net6.0\Tercer_Entregable_2.exe
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\bin\Debug\net6.0\Tercer_Entregable_2.deps.json
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\bin\Debug\net6.0\Tercer_Entregable_2.runtimeconfig.json
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\bin\Debug\net6.0\Tercer_Entregable_2.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\bin\Debug\net6.0\Tercer_Entregable_2.pdb
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\refint\Tercer_Entregable_2.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.pdb
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\Tercer_Entregable_2.genruntimeconfig.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Tercer_Entregable_2\obj\Debug\net6.0\ref\Tercer_Entregable_2.dll

@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\bin\Debug\net6.0\Rider_SOL.exe
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\bin\Debug\net6.0\Rider_SOL.deps.json
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\bin\Debug\net6.0\Rider_SOL.runtimeconfig.json
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\bin\Debug\net6.0\Rider_SOL.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\bin\Debug\net6.0\Rider_SOL.pdb
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.AssemblyInfo.cs
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\refint\Rider_SOL.dll
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.pdb
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\Rider_SOL.genruntimeconfig.cache
+C:\REPOSITORIOS\Programacion-II\Rider_SOL\Rider_SOL\obj\Debug\net6.0\ref\Rider_SOL.dll

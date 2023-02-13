@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb39b94f-5525-4be9-8f3c-9a1154550912" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programacion-II.dir/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programacion-II.dir/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/ConsoleApp2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/ConsoleApp2/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Programacion-II/FileContentIndex/09a34d43-2074-49df-89c2-a1574bfe2a47.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Programacion-II/FileContentIndex/621c6e22-9329-40c8-a438-8a6db554dd93.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Programacion-II/FileContentIndex/a8de1288-8682-43ac-be4a-3bcd106194e2.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/.idea/.idea.Rider_SOL/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/.idea/.idea.Rider_SOL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/.idea/.idea.Rider_SOL/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/.idea/.idea.Rider_SOL/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/.idea/.idea.Rider_SOL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/.idea/.idea.Rider_SOL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/Rider_SOL.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/Rider_SOL.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/Rider_SOL.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/Rider_SOL.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/Rider_SOL.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/Rider_SOL.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Debug/net6.0/Rider_SOL.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Release/net6.0/Rider_SOL.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Release/net6.0/Rider_SOL.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Release/net6.0/Rider_SOL.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Release/net6.0/Rider_SOL.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Release/net6.0/Rider_SOL.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Rider_SOL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Rider_SOL.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/Rider_SOL.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/Rider_SOL/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rider_SOL/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Programacion-II.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programacion-II.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +43,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EJ2/Ej2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EJ_Switch/Switch.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,6 +85,8 @@
       <updated>1675720640187</updated>
       <workItem from="1675720641251" duration="58000" />
       <workItem from="1675720701417" duration="54000" />
+      <workItem from="1675969915104" duration="85000" />
+      <workItem from="1675970013537" duration="102000" />
     </task>
     <servers />
   </component>
