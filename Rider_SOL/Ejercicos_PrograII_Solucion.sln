@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rider_SOL", "Rider_SOL\Rider_SOL.csproj", "{EF17BF8D-E124-40C5-B0F1-91B41A342EB5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ_SWITCH", "EJ_SWITCH\EJ_SWITCH.csproj", "{5879B741-BB11-48F2-A463-482F2D84E911}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tercer_Entregable_2", "Tercer_Entregable_2\Tercer_Entregable_2.csproj", "{93DC9C11-7079-45C7-810A-4F8DE7775233}"
@@ -12,10 +10,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF17BF8D-E124-40C5-B0F1-91B41A342EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF17BF8D-E124-40C5-B0F1-91B41A342EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF17BF8D-E124-40C5-B0F1-91B41A342EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF17BF8D-E124-40C5-B0F1-91B41A342EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5879B741-BB11-48F2-A463-482F2D84E911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5879B741-BB11-48F2-A463-482F2D84E911}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5879B741-BB11-48F2-A463-482F2D84E911}.Release|Any CPU.ActiveCfg = Release|Any CPU

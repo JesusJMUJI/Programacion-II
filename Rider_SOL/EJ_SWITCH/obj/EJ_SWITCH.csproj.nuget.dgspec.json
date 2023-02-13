@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOSITORIOS\\Programacion-II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj": {}
+    "C:\\REPOSITORIOS\\Programacion II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj": {}
   },
   "projects": {
-    "C:\\REPOSITORIOS\\Programacion-II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj": {
+    "C:\\REPOSITORIOS\\Programacion II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOSITORIOS\\Programacion-II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS\\Programacion II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj",
         "projectName": "EJ_SWITCH",
-        "projectPath": "C:\\REPOSITORIOS\\Programacion-II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj",
-        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOSITORIOS\\Programacion-II\\Rider_SOL\\EJ_SWITCH\\obj\\",
+        "projectPath": "C:\\REPOSITORIOS\\Programacion II\\Rider_SOL\\EJ_SWITCH\\EJ_SWITCH.csproj",
+        "packagesPath": "C:\\Users\\G513\\.nuget\\packages\\",
+        "outputPath": "C:\\REPOSITORIOS\\Programacion II\\Rider_SOL\\EJ_SWITCH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\G513\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
         }
       }
     }
