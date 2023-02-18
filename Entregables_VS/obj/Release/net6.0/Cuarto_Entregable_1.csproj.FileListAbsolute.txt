@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\bin\Release\net6.0\Cuarto_Entregable_1.exe
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\bin\Release\net6.0\Cuarto_Entregable_1.deps.json
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\bin\Release\net6.0\Cuarto_Entregable_1.runtimeconfig.json
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\bin\Release\net6.0\Cuarto_Entregable_1.dll
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\bin\Release\net6.0\Cuarto_Entregable_1.pdb
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.AssemblyInfo.cs
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.dll
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\refint\Cuarto_Entregable_1.dll
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.pdb
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\Cuarto_Entregable_1.genruntimeconfig.cache
+C:\REPOSITORIOS\Programacion-II\Entregables_VS\obj\Release\net6.0\ref\Cuarto_Entregable_1.dll
