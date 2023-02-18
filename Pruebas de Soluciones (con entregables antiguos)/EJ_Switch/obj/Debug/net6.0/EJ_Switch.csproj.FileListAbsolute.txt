@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\bin\Debug\net6.0\EJ_Switch.exe
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\bin\Debug\net6.0\EJ_Switch.deps.json
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\bin\Debug\net6.0\EJ_Switch.runtimeconfig.json
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\bin\Debug\net6.0\EJ_Switch.dll
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\bin\Debug\net6.0\EJ_Switch.pdb
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.AssemblyInfo.cs
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.dll
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\refint\EJ_Switch.dll
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.pdb
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\EJ_Switch.genruntimeconfig.cache
+C:\REPOSITORIOS\Programacion-II\EJ_Switch\obj\Debug\net6.0\ref\EJ_Switch.dll

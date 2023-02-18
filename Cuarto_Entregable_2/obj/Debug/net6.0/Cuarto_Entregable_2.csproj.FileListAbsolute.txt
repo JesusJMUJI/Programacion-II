@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Cuarto_Entregable_2\bin\Debug\net6.0\Cuarto_Entregable_2.exe
+C:\REPOSITORIOS\Cuarto_Entregable_2\bin\Debug\net6.0\Cuarto_Entregable_2.deps.json
+C:\REPOSITORIOS\Cuarto_Entregable_2\bin\Debug\net6.0\Cuarto_Entregable_2.runtimeconfig.json
+C:\REPOSITORIOS\Cuarto_Entregable_2\bin\Debug\net6.0\Cuarto_Entregable_2.dll
+C:\REPOSITORIOS\Cuarto_Entregable_2\bin\Debug\net6.0\Cuarto_Entregable_2.pdb
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.AssemblyInfo.cs
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.dll
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\refint\Cuarto_Entregable_2.dll
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.pdb
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\Cuarto_Entregable_2.genruntimeconfig.cache
+C:\REPOSITORIOS\Cuarto_Entregable_2\obj\Debug\net6.0\ref\Cuarto_Entregable_2.dll

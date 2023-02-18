@@ -1,0 +1,15 @@
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.AssemblyInfoInputs.cache
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.AssemblyInfo.cs
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\Entregables_VS\bin\Debug\net6.0\Entregables_VS.exe
+C:\REPOSITORIOS\Entregables_VS\bin\Debug\net6.0\Entregables_VS.deps.json
+C:\REPOSITORIOS\Entregables_VS\bin\Debug\net6.0\Entregables_VS.runtimeconfig.json
+C:\REPOSITORIOS\Entregables_VS\bin\Debug\net6.0\Entregables_VS.dll
+C:\REPOSITORIOS\Entregables_VS\bin\Debug\net6.0\Entregables_VS.pdb
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.dll
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\refint\Entregables_VS.dll
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.pdb
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\Entregables_VS.genruntimeconfig.cache
+C:\REPOSITORIOS\Entregables_VS\obj\Debug\net6.0\ref\Entregables_VS.dll
