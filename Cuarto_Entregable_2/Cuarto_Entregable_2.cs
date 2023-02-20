@@ -1,4 +1,4 @@
-﻿class OrdenarMatrizMayorMenor
+﻿class Entregable_2
 {
     static void Main()
     {
@@ -9,7 +9,7 @@
             {-1.4, -1.2, -1.0, -0.5, -0.1}
         };
 
-        int[] posiciones = OrdenarMatriz(matriz);
+        int[] posiciones = ComprobarNegativos(matriz);
 
         for (int i = 0; i < posiciones.Length; i++)
         {
@@ -20,7 +20,7 @@
         
     }
 
-    public static int[] OrdenarMatriz(double[,] matriz)
+    public static int[] ComprobarNegativos(double[,] matriz)
     {
         int n = matriz.GetLength(0); //filas
         int m = matriz.GetLength(1); //columna

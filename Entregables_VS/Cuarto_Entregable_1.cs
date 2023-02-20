@@ -1,4 +1,4 @@
-﻿class Amigos
+﻿class Entregable_1
 {
 
     static void Main()
