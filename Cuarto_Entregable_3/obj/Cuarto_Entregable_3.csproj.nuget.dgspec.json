@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOSITORIOS\\Programacion-II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj": {}
+    "C:\\REPOSITORIOS\\Programacion II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj": {}
   },
   "projects": {
-    "C:\\REPOSITORIOS\\Programacion-II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj": {
+    "C:\\REPOSITORIOS\\Programacion II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOSITORIOS\\Programacion-II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj",
+        "projectUniqueName": "C:\\REPOSITORIOS\\Programacion II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj",
         "projectName": "Cuarto_Entregable_3",
-        "projectPath": "C:\\REPOSITORIOS\\Programacion-II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj",
-        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOSITORIOS\\Programacion-II\\Cuarto_Entregable_3\\obj\\",
+        "projectPath": "C:\\REPOSITORIOS\\Programacion II\\Cuarto_Entregable_3\\Cuarto_Entregable_3.csproj",
+        "packagesPath": "C:\\Users\\G513\\.nuget\\packages\\",
+        "outputPath": "C:\\REPOSITORIOS\\Programacion II\\Cuarto_Entregable_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\G513\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
