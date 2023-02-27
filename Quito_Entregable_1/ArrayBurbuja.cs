@@ -20,13 +20,13 @@ namespace Quito_Entregable_1
 
         public static void Burbuja(int[] listaParam)
         {
-            int longLista = listaParam.GetLength(0);
-            bool burbuja;
+            int longitudArray = listaParam.GetLength(0);
+            bool esBurbuja;
 
             do
             {
-                burbuja = false;
-                for (int i = 1; i < longLista; i++)
+                esBurbuja = false;
+                for (int i = 1; i < longitudArray; i++)
                 {
                     if (listaParam[i - 1] > listaParam[i])
                     {
@@ -34,12 +34,12 @@ namespace Quito_Entregable_1
                         int temp = listaParam[i - 1];
                         listaParam[i - 1] = listaParam[i];
                         listaParam[i] = temp;
-                        burbuja = true;
+                        esBurbuja = true;
                     }
                 }
-                longLista--;
+                longitudArray--;
 
-            } while (burbuja);
+            } while (esBurbuja);
         }
     }
 }
