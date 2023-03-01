@@ -11,9 +11,9 @@ namespace Quinto_Entregable_3
         static void Main(string[] args)
         {
             int[] myArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int index = BusquedaBinaria(myArray, 4);
+            int index = BusquedaBinaria(myArray, Convert.ToInt32(Console.ReadLine()));
 
-            Console.WriteLine(index);
+            Console.WriteLine("El numero esta en el indice: "+ (index + 1));
         }
 
         public static int BusquedaBinaria(int[] array, int index)
