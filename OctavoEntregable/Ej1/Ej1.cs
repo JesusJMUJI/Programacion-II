@@ -4,14 +4,61 @@ namespace Ej1
 {
     internal class Ej1
     {
+
+
+        public class Punto
+        {
+            private int x;
+            private int y;
+
+            public Punto(int x, int y)
+            {
+                this.x = x;
+                this.y = y;
+            }
+
+            public int X  
+            {
+                get { return x; }
+                set { x = value; }
+            }
+
+            public int Y
+            {
+                get { return y; }
+                set { y = value; }
+            }
+        }
+
+        public static class OperacionesConPuntos
+        {
+            public static void OperacionDoblez(Punto[] puntos)
+            {
+                foreach (Punto elemento in puntos)
+                {
+                    elemento.X *= 2;
+                    elemento.Y /= 2;
+                }
+            }
+
+            public static Punto[] OperacionDoblezCopia(Punto[] puntos)
+            {
+                Punto[] copia = new Punto[puntos.Length];
+                for (int i = 0; i < puntos.Length; i++)
+                {
+                    copia[i] = new Punto(puntos[i].X * 2, puntos[i].Y / 2);
+                }
+                return copia;
+            }
+        }
         public static void Main()
         {
             Punto[] puntos = new Punto[] { new Punto(12, 41), new Punto(44, 53) };
 
             Console.WriteLine("Array antes de OperacionDoblez:");
-            foreach (Punto punto in puntos)
+            foreach (Punto elemento in puntos)
             {
-                Console.WriteLine($"({punto.X}, {punto.Y})");
+                Console.WriteLine($"({elemento.X}, {elemento.Y})");
             }
 
             OperacionesConPuntos.OperacionDoblez(puntos);
@@ -43,52 +90,5 @@ namespace Ej1
             }
 
         }
-
-        public class Punto
-        {
-            private int x;
-            private int y;
-
-            public Punto(int x, int y)
-            {
-                this.x = x;
-                this.y = y;
-            }
-
-            public int X
-            {
-                get { return x; }
-                set { x = value; }
-            }
-
-            public int Y
-            {
-                get { return y; }
-                set { y = value; }
-            }
-        }
-
-        public static class OperacionesConPuntos
-        {
-            public static void OperacionDoblez(Punto[] puntos)
-            {
-                foreach (Punto punto in puntos)
-                {
-                    punto.X *= 2;
-                    punto.Y /= 2;
-                }
-            }
-
-            public static Punto[] OperacionDoblezCopia(Punto[] puntos)
-            {
-                Punto[] copia = new Punto[puntos.Length];
-                for (int i = 0; i < puntos.Length; i++)
-                {
-                    copia[i] = new Punto(puntos[i].X * 2, puntos[i].Y / 2);
-                }
-                return copia;
-            }
-        }
-
     }
 }

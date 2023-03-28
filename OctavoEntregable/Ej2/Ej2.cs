@@ -38,7 +38,7 @@ namespace Ej2
             public string Direccion { get; set; }
             public string Codigo { get; set; }
             public string Nombre { get; set; }
-            private readonly CuentaBancaria[] cuentasBancarias = new CuentaBancaria[1000];
+            private CuentaBancaria[] cuentasBancarias = new CuentaBancaria[1000];
             public int cantidadCuentasBancarias;
 
             public Banco(string direccion, string codigo, string nombre)
