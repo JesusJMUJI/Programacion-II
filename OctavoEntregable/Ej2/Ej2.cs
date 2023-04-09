@@ -38,7 +38,7 @@ namespace Ej2
             public string Direccion { get; set; }
             public string Codigo { get; set; }
             public string Nombre { get; set; }
-            private CuentaBancaria[] cuentasBancarias = new CuentaBancaria[1000];
+            private CuentaBancaria[] cuentas = new CuentaBancaria[1000];
             public int cantidadCuentasBancarias;
 
             public Banco(string direccion, string codigo, string nombre)
@@ -56,7 +56,7 @@ namespace Ej2
                 }
                 else
                 {
-                    cuentasBancarias[cantidadCuentasBancarias] = cuenta;
+                    cuentas[cantidadCuentasBancarias] = cuenta;
                     cantidadCuentasBancarias++;
                 }
             }
@@ -65,7 +65,7 @@ namespace Ej2
             {
                 int totalClientes = 0;
 
-                for (int i = 0; i < cuentasBancarias.Length; i++)
+                for (int i = 0; i < cuentas.Length; i++)
                 {
                     totalClientes++;
                 }
@@ -77,7 +77,7 @@ namespace Ej2
                 decimal totalActivos = 0;
                 for (int i = 0; i < cantidadCuentasBancarias; i++)
                 {
-                    totalActivos += cuentasBancarias[i].Saldo;
+                    totalActivos += cuentas[i].Saldo;
                 }
                 return totalActivos;
             }
