@@ -9,17 +9,25 @@ namespace Decimo_Entregable
         {
             Tablero tablero = new Tablero();
             tablero.DameFormasMismoColor(Colores.Rojo);
-            //tablero.Ordenar();
-            //tablero.Reducir(, 10);
+            
+            List<Forma> listaFormas = tablero.DameFormasMismoColor(Colores.Rojo);
+            
+            tablero.Ordenar(listaFormas);
+            tablero.Reducir(listaFormas, 30);
+            
         }
-
+        
+        public enum Colores
+        {
+            Rojo, Verde, Azul
+        }
         public class Forma : IComparable<Forma>
         {
 
-            private protected int Lado { get; set; }
+            public int Lado { get; set; }
             public Colores Color { get; set; }
 
-            public Forma(int lado = 0, Colores color = Colores.Rojo)
+            public Forma(int lado, Colores color)
             {
                 Lado = lado;
                 Color = color;
@@ -36,12 +44,7 @@ namespace Decimo_Entregable
             }
             
         }
-        
-                            
-        public enum Colores
-        {
-            Rojo, Verde, Azul
-        }
+
         
         public class Cuadrado : Forma
         {
@@ -93,9 +96,9 @@ namespace Decimo_Entregable
                 }
             }
             
-            public List<Colores> DameFormasMismoColor(Colores color)
+            public List<Forma> DameFormasMismoColor(Colores color)
             {
-                List<Colores> ListaColores = new List<Colores>();
+                List<Forma> ListaColores = new List<Forma>();
                 
                 for (int i = 0; i < _listaFormas.GetLength(0); i++)
                 {
@@ -103,7 +106,7 @@ namespace Decimo_Entregable
                     {
                         if (_listaFormas[i, j].Color == color)
                         {
-                            ListaColores.Add(_listaFormas[i, j].Color);
+                            ListaColores.Add(_listaFormas[i, j]);
                         }
                     }
                 }
@@ -113,29 +116,17 @@ namespace Decimo_Entregable
             
             public void Ordenar(List<Forma> listaFormasAOrdenar)
             {
-                
-                for (int i = 0; i < _listaFormas.GetLength(0); i++)
-                {
-                    for (int j = 0; j < _listaFormas.GetLength(1); j++)
-                    {
-                        listaFormasAOrdenar.Add(_listaFormas[i, j]);
-                    }
-                }
-                
                 listaFormasAOrdenar.Sort();
-
             }
             
             public void Reducir(List<Forma> listaReducir, int cantidad)
             {
-                for (int i = 0; i < _listaFormas.GetLength(0); i++)
+
+                foreach (var elemento in listaReducir)
                 {
-                    for (int j = 0; j < _listaFormas.GetLength(1); j++)
+                    if (elemento.Area() < cantidad)
                     {
-                        if (_listaFormas[i, j].Area() < cantidad)
-                        {
-                            listaReducir.Remove(_listaFormas[i, j]);
-                        }
+                        listaReducir.Remove(elemento);
                     }
                 }
             }
