@@ -12,32 +12,6 @@ namespace Entregable
         {
         }
 
-        public void Lucha(List<Enemigo> listaEnemigos)
-        {
-            for (int i = 0; i < listaEnemigos.Length; i++)
-            {
-                Stack<string> stackHechizos = new Stack<string>();
-
-                if (listaEnemigos[i].GetType() == typeof(Diabólico))
-                {
-                    Diabólico d = listaEnemigos[i] as Diabólico;
-                    stackHechizos.Push(d.LanzarHechizo());
-                }
-
-                if (listaEnemigos[i].GetType() ==  typeof(Enemigo))
-                {
-                    listaEnemigos.RemoveAt(i);
-                    i--;
-                }
-                
-            }
-        }
-
-        public void ordenarMalvados(Malvado[] listaMalvados)
-        {
-
-        }
-
         public class Enemigo
         {
             public enum Armas
@@ -80,6 +54,41 @@ namespace Entregable
             }
         }
 
+
+        public class Diabólico : Malvado
+        {
+            public string LanzarHechizo()
+            {
+                string[] arrayHechizos = new string[]
+                    { "conjuro de serpientes", "cnjuro del averno", "conjuro inofensivo" };
+                Random rnd = new Random();
+                int hechizoRandom = rnd.Next(arrayHechizos.Length);
+                return arrayHechizos[hechizoRandom];
+            }
+        }
+    
+
+        public void Lucha(List<Enemigo> listaEnemigos)
+        {
+            for (int i = 0; i < listaEnemigos.Count; i++)
+            {
+                Stack<string> stackHechizos = new Stack<string>();
+
+                if (listaEnemigos[i].GetType() == typeof(Diabólico))
+                {
+                    Diabólico d = listaEnemigos[i] as Diabólico;
+                    stackHechizos.Push(d.LanzarHechizo());
+                }
+
+                if (listaEnemigos[i].GetType() ==  typeof(Enemigo))
+                {
+                    listaEnemigos.RemoveAt(i);
+                    i--;
+                }
+                
+            }
+        }
+
         public class MalvadoComparer : IComparer<Malvado>
         {
             public int Compare(Malvado a, Malvado b)
@@ -98,17 +107,5 @@ namespace Entregable
                 }
             }
         }
-
-        public class Diabólico : Malvado
-        {
-            public string LanzarHechizo()
-            {
-                string[] arrayHechizos = new string[]
-                    { "conjuro de serpientes", "cnjuro del averno", "conjuro inofensivo" };
-                Random rnd = new Random();
-                int hechizoRandom = rnd.Next(arrayHechizos.Length);
-                return arrayHechizos[hechizoRandom];
-            }
-        }
-    }
+    
 }
